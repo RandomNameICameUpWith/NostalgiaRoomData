@@ -1,0 +1,90 @@
+{
+  "FeaturedPlayer": {
+    "Id": 1164950,
+    "TitleOverride": "Featured Creator",
+    "UrlOverride": "https://www.youtube.com/watch?v=-7cLPSXGlJ8"
+  },
+  "FeaturedRoomGroup": {
+    "Name": "Featured Rooms Title",
+    "FeaturedRooms": [
+    ]
+  },
+  "CurrentAnnouncement": {
+    "Message": "Made by NostalgiaArcade!",
+    "MoreInfoUrl": "https://dwajgsejfdglkdlgdfdfjglkdfgcvkbgrjdg.com"
+  },
+  "InstagramImages": [
+    {
+      "ImageName": "UnknownImage.jpg",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "UnknownImage.jpg",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "UnknownImage.jpg",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "UnknownImage.jpg",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "UnknownImage.jpg",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "UnknownImage.jpg",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "UnknownImage.jpg",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "UnknownImage.jpg",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "UnknownImage.jpg",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "UnknownImage.jpg",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "UnknownImage.jpg",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "UnknownImage.jpg",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    }
+    
+  ],
+  "Videos": [
+    {
+      "BlobName": "",
+      "Title": "Video 1",
+      "Description": "Video 1 Description",
+      "ThumbnailBlobName": "UnknownImage.jpg",
+      "SourceUrl": "https://www.youtube.com/watch?v=-7cLPSXGlJ8"
+    },
+    {
+      "BlobName": "",
+      "Title": "Video 2",
+      "Description": "Video 2 Description",
+      "ThumbnailBlobName": "UnknownImage.jpg",
+      "SourceUrl": "https://www.youtube.com/watch?v=-7cLPSXGlJ8"
+    },
+    {
+      "BlobName": "",
+      "Title": "Video 3",
+      "Description": "Video 3 Description",
+      "ThumbnailBlobName": "UnknownImage.jpg",
+      "SourceUrl": "https://www.youtube.com/watch?v=-7cLPSXGlJ8"
+    }
+  ]
+}
